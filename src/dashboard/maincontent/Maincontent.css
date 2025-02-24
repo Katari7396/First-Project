@@ -1,0 +1,10 @@
+.main-content {
+    padding: 20px;
+    background-color: #e28989;
+    flex-grow: 1;
+}
+.main-content p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font: size 100%;
+}

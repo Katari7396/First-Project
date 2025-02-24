@@ -1,0 +1,19 @@
+.light{
+    background-color: #fcfcfc;
+    color: #353434;
+}
+.dark{
+    background-color: #353434;
+    color:#fcfcfc;
+}
+button {
+    cursor: pointer;
+    padding: 10px;
+}
+body div{
+    height: 100vh;
+}
+#container{
+    align-content: center;
+    text-align: center;
+}

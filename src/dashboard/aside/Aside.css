@@ -1,0 +1,28 @@
+.aside {
+    background-color: #f0c594;
+    padding: 20px;
+    height: 100%;
+    width: 200px;
+    box-sizing: border-box;
+}
+.aside h3{
+    font-size: large;
+    font-weight: bold;
+    color: black;
+    /* text-align: center; */
+}
+.aside ul{
+    list-style: none;
+}
+.aside ul li a{
+    text-decoration: none;
+    font-size: medium;
+    color:rgb(95, 79, 79);
+    display: block;
+    border-radius: 5px;
+    padding: 10px;
+}
+.aside ul li a:hover{
+    background-color: rgb(174, 174, 221);
+}
+  

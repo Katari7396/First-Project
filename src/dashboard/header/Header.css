@@ -1,0 +1,25 @@
+.header{
+    background-color: rgb(203, 176, 228);
+    text-align: center;
+    align-items: center;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    font-weight: bolder;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 15px;
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(95, 74, 74);
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.navbar a:hover{
+    background-color: aqua;
+}
